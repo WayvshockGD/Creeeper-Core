@@ -1,0 +1,11 @@
+{
+  "name": "@creeper/core",
+  "version": "1.0.0",
+  "description": "the core base for the bot creeper split",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "creeper",
+  "license": "MIT"
+}
